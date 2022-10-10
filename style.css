@@ -1,0 +1,21 @@
+@page {
+    width: 50mm;
+    height: 25mm;
+    padding: 3mm;
+}
+
+img {
+    height: 18mm;
+    display: inline-block;
+    vertical-align: middle;
+    image-rendering: pixelated;
+    margin-right: 5mm;
+}
+
+.label {
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+    vertical-align: middle;
+    display: inline-block;
+    font-size: 21px;
+}
