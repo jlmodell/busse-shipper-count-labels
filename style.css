@@ -5,7 +5,7 @@
 }
 
 img {
-    height: 18mm;
+    height: 16mm;
     display: inline-block;
     vertical-align: middle;
     image-rendering: pixelated;
@@ -17,5 +17,5 @@ img {
     font-weight: bold;
     vertical-align: middle;
     display: inline-block;
-    font-size: 21px;
+    font-size: 15px;
 }
